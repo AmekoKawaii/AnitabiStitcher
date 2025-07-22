@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AnitabiStitcher (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "AnitabiStitcher (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
